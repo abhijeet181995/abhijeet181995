@@ -1,6 +1,6 @@
-# Abhijeet Srivastava
-========================
-### Software Engineer/ Student / Coder
+# Abhijeet Srivastava 
+### Software Engineer/ Student 👨‍🎓 / Coder 💻
+---
 ## About Me
 Hi there :smile:, I am Abhijeet currently pursing my masters in Computer Science at IIIT-H. I am a developer as well a coder with the knowledge of most modern technologies like cloud computing, Distributed , Web Security.
 
@@ -17,8 +17,11 @@ Hi there :smile:, I am Abhijeet currently pursing my masters in Computer Science
 - Burpsuite
 
 ## Links
+[LinkedIN](https://in.linkedin.com/in/abhijeet-srivastava-747748155)
+
 
 ## Contact Me
+[abhiheet181995@gmal.com](mailto:abhijeet181995@gmail.com)
 
 
 
