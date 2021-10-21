@@ -1,11 +1,28 @@
 # Abhijeet Srivastava
+========================
 ### Software Engineer/ Student / Coder
 ## About Me
 Hi there :smile:, I am Abhijeet currently pursing my masters in Computer Science at IIIT-H. I am a developer as well a coder with the knowledge of most modern technologies like cloud computing, Distributed , Web Security.
 
 ## Skills
-- C/C++ :star: :star: :star: :star:
-- Python :star: :star: :star: :star:
+
+### Programinig
+- C/C++ :star: :star: :star: 
+- Python :star: :star:
+
+### Software Tools
+- Git/Github
+- AWS
+- Linux
+- Burpsuite
+
+## Links
+
+## Contact Me
+
+
+
+
 <!--
 **abhijeet181995/abhijeet181995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
