@@ -1,8 +1,8 @@
-### Hi, I am Abhijeet Srivastava 
-==========
+### Abhijeet Srivastava
+## Software Engineer / ML Enthusiast / Coder
 ## Skills
-
-** Education
+## Education
+## Achievment
 
 <!--
 **abhijeet181995/abhijeet181995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
