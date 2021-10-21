@@ -21,7 +21,7 @@ Hi there :smile:, I am Abhijeet currently pursing my masters in Computer Science
 
 
 ## Contact Me
-[abhiheet181995@gmal.com](mailto:abhijeet181995@gmail.com)
+[abhijeet181995@gmal.com](mailto:abhijeet181995@gmail.com)
 
 
 
