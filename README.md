@@ -4,8 +4,8 @@
 Hi there :smile:, I am Abhijeet currently pursing my masters in Computer Science at IIIT-H. I am a developer as well a coder with the knowledge of most modern technologies like cloud computing, Distributed , Web Security.
 
 ## Skills
-- C/C++ :start: :start: :start: 
-- Python :start: :start:
+- C/C++ :star: :star: :star: 
+- Python :star: :star:
 <!--
 **abhijeet181995/abhijeet181995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
