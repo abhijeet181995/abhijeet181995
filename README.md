@@ -5,7 +5,7 @@ Hi there :smile:, I am Abhijeet currently pursing my masters in Computer Science
 
 ## Skills
 - C/C++ :star: :star: :star: :star:
-- Python :star: :star: :start: :star:
+- Python :star: :star: :star: :star:
 <!--
 **abhijeet181995/abhijeet181995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
