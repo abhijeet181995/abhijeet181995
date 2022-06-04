@@ -8,13 +8,15 @@ Hi there :smile:, I am Abhijeet currently pursing my masters in Computer Science
 
 ### Programinig
 - C/C++ :star: :star: :star: 
-- Python :star: :star:
+- Python :star: :star: :star:
 
 ### Software Tools
 - Git/Github
 - AWS
 - Linux
-- Burpsuite
+- MongoDB
+- MySQL
+- Docker
 
 ## Links
 [LinkedIN](https://in.linkedin.com/in/abhijeet-srivastava-747748155)
