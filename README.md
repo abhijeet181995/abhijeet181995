@@ -7,6 +7,8 @@ Hi there :smile:, I am Abhijeet currently pursing my masters in Computer Science
 ## Skills
 
 ### Programinig
+- Android :star: :star: :star:
+- Kotlin :star: :star: :star:
 - C/C++ :star: :star: :star: 
 - Python :star: :star: :star:
 
